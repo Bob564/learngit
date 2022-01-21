@@ -1,4 +1,4 @@
 Git is a distributed version control system.
 Git is free software.
 this is a test for back function.
-git index
+git index 2
